@@ -1,0 +1,26 @@
+body {background-color: rgb(48, 0, 44);}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+p{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 20px;
+}
+.resaltado{
+    color: black;
+    background-color: yellow;
+    font-style: italic;
+}
+#cabecera{
+    font-family: cursive;
+    font-size: 30px;
+    color: blueviolet;
+    background-color: thistle;
+}
