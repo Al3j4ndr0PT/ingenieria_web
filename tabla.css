@@ -1,0 +1,41 @@
+.parrafo{
+    color: rgb(7, 0, 134);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 30px;
+}
+#acceso{
+    font-family: cursive;
+    font-size: 15px;
+    color: blueviolet;
+    background-color: thistle;    
+}
+#recuadro{
+    background-image: url("img1.jfif");
+    opacity: 0.4;
+    color: rgb(0, 0, 0);
+    width: 600px;
+    height: 400px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+#recuadro1{
+    border-radius: 20px;
+    background-color: #ddd;
+    width: 200px;
+    padding: 10px;
+}
+#recuadro1 :hover{
+    width: 300px;   
+}
+#recuadro2{
+    border-radius: 20px;
+    background-color: yellow;
+    width: 200px;
+    padding: 10px;
+    transition: 1s;
+    -webkit-transition: widht 1s;    
+}
+#recuadro2 :hover{
+    width: 300px;   
+}
